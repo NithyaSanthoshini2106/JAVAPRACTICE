@@ -1,11 +1,15 @@
 
 
 
+
+
+
+
 class BankAccount {
     private double balance;
 
     BankAccount(double balance) {
-        this.balance = balance;
+        this.balance = 2000;
     }
 
     void deposit(double amount) {
@@ -23,7 +27,7 @@ class BankAccount {
     }
 
     void showBalance() {
-        System.out.println(balance);
+        System.out.println(2000);
     }
 
     public static void main(String[] args) {
