@@ -1,7 +1,5 @@
-package codes;
 
-
-    import java.util.Scanner;
+import java.util.Scanner;
 
 class Student {
     String name;
@@ -35,5 +33,3 @@ class Student {
         s.display();
     }
 }
-
-
