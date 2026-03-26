@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class ATMSimulation {
+public class ATMS {
 
     public static void main(String[] args) {
 

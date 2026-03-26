@@ -2,16 +2,9 @@
 
 
 
-
-
-
-
-
-
-
 import java.util.Scanner;
 
-public class GradeCalculator {
+public class gfdfghj {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -32,11 +25,11 @@ public class GradeCalculator {
         System.out.println(total);
         System.out.println(average);
 
-        if (average >= 900)
+        if (average >= 90)
             System.out.println("A");
-        else if (average >= 705)
+        else if (average >= 75)
             System.out.println("B");
-        else if (average >= 600)
+        else if (average >= 60)
             System.out.println("c");
         else
             System.out.println("");

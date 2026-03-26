@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-class BankAccount {
+class poiuytr {
 
     double balance = 6787890;
 
@@ -27,16 +27,10 @@ class BankAccount {
     }
 }
 
-public class BankApp {
+public class jtrertry {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        BankAccount account = new BankAccount();
-
-        account.deposit(1000);
-        account.withdraw(500);
-        account.displayBalance();
-
         sc.close();
     }
 }

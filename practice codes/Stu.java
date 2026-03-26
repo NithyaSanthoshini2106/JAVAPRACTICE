@@ -1,14 +1,8 @@
 
 
-
-
-
-
-
-
 import java.util.Scanner;
 
-public class StudentRecord {
+public class Stu{
 
     public static void main(String[] args) {
 

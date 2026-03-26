@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class StudentGrades {
+public class oiuytr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

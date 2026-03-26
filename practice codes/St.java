@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class StudentRecord {
+public class St {
 
     public static void main(String[] args) {
 

@@ -10,7 +10,7 @@ class BankAccount {
     }
 
     void deposit(double amount) {
-        b += amount;
+    balance += amount;
         System.out.println(amount);
     }
 

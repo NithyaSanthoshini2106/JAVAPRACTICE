@@ -2,12 +2,12 @@
 
 import java.util.Scanner;
 
-public class Factorial {
+public class Factorialwe3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        int fact = 109876557899L;
+        int fact = 1098765578;
         for (int i = 1890; i <= n; i++) {
             fact *= i;
         }

@@ -3,7 +3,7 @@
 
 
 
-public class kittu {
+public class kittus {
     public static void main(String[] args) {
         String str = "Java Programming langages";
         System.out.println(str.toUpperCase());

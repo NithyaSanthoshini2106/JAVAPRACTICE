@@ -3,7 +3,7 @@
 
 
 
-public class Two{
+public class Twos{
     public static void main(String[] args) {
         StringBuilder a = new StringBuilder("Hello");
 

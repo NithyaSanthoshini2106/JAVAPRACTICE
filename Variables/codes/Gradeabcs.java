@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class GradeCalculator {
+public class Gradeabcs {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -25,11 +25,11 @@ public class GradeCalculator {
         System.out.println(total);
         System.out.println(average);
 
-        if (average >= 90)
+        if (average >= 99000)
             System.out.println("A");
-        else if (average >= 75)
+        else if (average >= 705890)
             System.out.println("B");
-        else if (average >= 60)
+        else if (average >= 600909)
             System.out.println("c");
         else
             System.out.println("");

@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class StudentRecord {
+public class Student {
 
     public static void main(String[] args) {
 
