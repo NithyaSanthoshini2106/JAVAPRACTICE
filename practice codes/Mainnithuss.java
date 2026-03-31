@@ -13,13 +13,11 @@ class Student {
     }
 
     void display(){
-        System.out.println(name + age);
     }
 }
 
 public class Mainnithuss {
     public static void main(String[] args){
-        Student s = new Student("Nithya_Spoorthi_VarmaRaju", 25);
-        s.display();
+
     }
 }

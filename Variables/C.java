@@ -2,19 +2,37 @@
 
 
 
+import java.util.Scanner;
 
-public class C {
-    public static void main(String[] args) {
-        String a = "madam";
-        String b = "";
-        
-        for (int i = a.length() - 1; i >= 0; i--) {
-            b += a.charAt(i);
-        }
+class Student {
+    String name;
+    int rollNo;
+    int marks;
 
-        if (a.equals(b))
-            System.out.println(a + " is a palindrome");
+    void input() {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Name: spoorthi raju");
+        System.out.print("Enter Roll No: 21f11690");
+        rollNo = sc.nextInt();
+        System.out.print("Enter Marks: 95 ");
+        marks = sc.nextInt();
+    }
+
+    void display() {
+        System.out.println("\nStudent Details");
+        System.out.println(name);
+        System.out.println(rollNo);
+        System.out.println(marks);
+        if (marks >= 35)
+            System.out.println("Result: Pass");
         else
-            System.out.println(a + " is not a palindrome");
+            System.out.println("Result: Fail");
+    }
+
+    public static void main(String[] args) {
+        Student s = new Student();
+        s.input();
+        s.display();
     }
 }
+
