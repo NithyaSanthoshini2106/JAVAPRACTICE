@@ -2,7 +2,6 @@
 
 
 
-package Strings;
 public class nithya{
     public static void main(String[] args) {
         StringBuilder a = new StringBuilder("Hello");

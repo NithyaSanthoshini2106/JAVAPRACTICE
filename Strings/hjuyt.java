@@ -9,11 +9,6 @@ class BankAccount {
         this.balance = 23456;
     }
 
-    void deposit(double amount) {
-        b += amount;
-        System.out.println(amount);
-    }
-
     void withdraw(double amount) {
         if (amount <= balance) {
             balance -= amount;
@@ -29,7 +24,6 @@ class BankAccount {
 
     public static void main(String[] args) {
         BankAccount acc = new BankAccount(5000);
-        acc.deposit(2000);
         acc.withdraw(3000);
         acc.showBalance();
     }

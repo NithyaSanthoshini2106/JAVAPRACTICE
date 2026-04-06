@@ -1,5 +1,5 @@
 
-package Strings;
+
 public class Print{
     public static void main(String[] args) {
         StringBuilder a = new StringBuilder("Hello");

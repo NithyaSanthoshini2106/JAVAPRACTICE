@@ -1,4 +1,4 @@
-package Strings;
+
 public class One{
     public static void main(String[] args) {
         StringBuilder a = new StringBuilder("Hello");

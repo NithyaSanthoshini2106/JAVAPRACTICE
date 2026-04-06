@@ -5,12 +5,12 @@
 
 import java.util.Scanner;
 
-public class Factorial {
+public class Factor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        int fact = 109876557899L;
+        int fact = 10987;
         for (int i = 1890; i <= n; i++) {
             fact *= i;
         }

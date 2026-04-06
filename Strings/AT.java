@@ -2,14 +2,8 @@
 
 
 
-
-
-
-
 import java.util.Scanner;
-
-public class ATMSimulation {
-
+public class AT {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -29,7 +23,6 @@ public class ATMSimulation {
                 case 1:
                     System.out.println(balance);
                     break;
-
                 case 2:
                     System.out.print("Enter deposit amount: ");
                     double deposit = sc.nextDouble();
