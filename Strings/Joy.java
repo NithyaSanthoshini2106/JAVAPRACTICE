@@ -4,9 +4,11 @@
 
 
 
-public class  J{
+
+
+public class  Joy girl{
     public static void main(String[] args) {
-     string str = "nithyaSpoorthinithuraju Adluru ";
+        String str = "NithyaSpoorthinithuraju Adluru ";
         String rev = "";
         for (int i = str.length() - 1; i >= 0; i--) {
             rev += str.charAt(i);
