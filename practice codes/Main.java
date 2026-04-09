@@ -10,13 +10,15 @@ class Student {
     }
 
     void display(){
-        System.out.println(name + age);
+        System.out.println("");
     }
 }
 
 public class Main {
     public static void main(String[] args){
-        Student s = new Student("Nithya", 22);
-        s.display();
+        Student s1 = new Student(null, 0);
+        s1.display();
+
+
     }
 }

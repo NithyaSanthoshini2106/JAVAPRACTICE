@@ -14,13 +14,6 @@ public class St {
         String[] names = new String[n];
         int[] marks = new int[n];
 
-        for (int i = 0; i < n; i++) {
-            System.out.print("Enter name: ");
-            names[i] = sc.next();
-            System.out.print("Enter marks: ");
-            marks[i] = sc.nextInt();
-        }
-
         int highest = marks[0];
         String topper = names[0];
 

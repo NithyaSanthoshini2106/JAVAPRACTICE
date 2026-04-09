@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Palin {
+public class Palasssed {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

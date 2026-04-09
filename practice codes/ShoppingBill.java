@@ -17,16 +17,6 @@ public class ShoppingBill {
 
         double total = 0;
 
-        for (int i = 0; i < n; i++) {
-            System.out.print("\nEnter item name: ");
-            items[i] = sc.next();
-
-            System.out.print("Enter quantity: ");
-            qty[i] = sc.nextInt();
-
-            System.out.print("Enter price: ");
-            price[i] = sc.nextDouble();
-        }
 
         System.out.println("\n===== BILL =====");
         System.out.println("Item\tQty\tPrice\tTotal");

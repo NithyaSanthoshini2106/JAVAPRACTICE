@@ -1,7 +1,8 @@
 
+
 import java.util.Scanner;
 
-public class Palin {
+public class Paloiouytrtyr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
