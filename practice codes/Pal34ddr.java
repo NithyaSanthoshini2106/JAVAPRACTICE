@@ -1,9 +1,15 @@
 
 
 
+
+
+
+
+
+
 import java.util.Scanner;
 
-public class jeev {
+public class Pal34ddr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

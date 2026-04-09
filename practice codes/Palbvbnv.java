@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class jeev {
+public class Palbvbnv {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
