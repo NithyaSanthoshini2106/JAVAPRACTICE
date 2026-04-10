@@ -1,6 +1,6 @@
 
 
-package Strings;
+
 
 public class Twosd{
     public static void main(String[] args) {

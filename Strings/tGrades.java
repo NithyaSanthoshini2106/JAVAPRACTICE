@@ -13,14 +13,12 @@ public class tGrades {
 
         for (int i = 0; i < n; i++) {
             System.out.print("Enter name of student " + (i + 1) + ": ");
-            names[i] = sc.next();
             System.out.print("Enter marks of " + names[i] + ": ");
             marks[i] = sc.nextInt();
         }
 
         System.out.println("\nResults:");
         for (int i = 0; i < n; i++) {
-            System.out.print(names[i] +marks[i] );
             if (marks[i] >= 90) System.out.println("A");
             else if (marks[i] >= 75) System.out.println("B");
             else if (marks[i] >= 60) System.out.println("C");
