@@ -20,7 +20,6 @@ public class Student {
 
         for (int i = 0; i < n; i++) {
             System.out.print("Enter name: ");
-            names[i] = sc.next();
             System.out.print("Enter marks: ");
             marks[i] = sc.nextInt();
         }

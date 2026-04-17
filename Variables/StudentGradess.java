@@ -13,7 +13,6 @@ public class StudentGradess {
 
         for (int i = 0; i < n; i++) {
             System.out.print("Enter name of student " + (i + 1) + ": ");
-            names[i] = sc.next();
             System.out.print("Enter marks of " + names[i] + ": ");
             marks[i] = sc.nextInt();
         }

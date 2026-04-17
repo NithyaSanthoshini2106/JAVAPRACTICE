@@ -19,7 +19,6 @@ public class ShoppingBill {
 
         for (int i = 0; i < n; i++) {
             System.out.print("\nEnter item name: ");
-            items[i] = sc.next();
 
             System.out.print("Enter quantity: ");
             qty[i] = sc.nextInt();

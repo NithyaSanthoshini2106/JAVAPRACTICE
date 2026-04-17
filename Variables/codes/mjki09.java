@@ -12,8 +12,6 @@ class Student {
 
     void input() {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter Name: spoorthi raju");
-        name = sc.nextLine();
         System.out.print("Enter Roll No: 21f11690");
         rollNo = sc.nextInt();
         System.out.print("Enter Marks: 95 ");
@@ -22,7 +20,6 @@ class Student {
 
     void display() {
         System.out.println("\nStudent Details");
-        System.out.println(name);
         System.out.println(rollNo);
         System.out.println(marks);
         if (marks >= 35)

@@ -42,10 +42,6 @@ public class NumberGuessingGame {
             if (guess != randomNumber) {
                 System.out.println(randomNumber);
             }
-
-            System.out.print("\nDo you want to play again? (yes/no): ");
-            String response = sc.next();
-            playAgain = response.equalsIgnoreCase("yes");
         }
 
         System.out.println("Thanks for playing!");

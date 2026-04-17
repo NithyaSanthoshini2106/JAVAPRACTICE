@@ -14,7 +14,6 @@ public class EmployeeManagement {
 
         for (int i = 0; i < n; i++) {
             System.out.print("Enter employee name: ");
-            names[i] = sc.next();
             System.out.print("Enter salary: ");
             salaries[i] = sc.nextDouble();
         }

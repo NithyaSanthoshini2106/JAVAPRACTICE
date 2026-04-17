@@ -10,8 +10,6 @@ public class H {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Adluru NithuRaju");
-        String name = sc.nextLine();
-
         System.out.print("89");
         int m1 = sc.nextInt();
 
@@ -24,7 +22,6 @@ public class H {
         int total = m1 + m2 + m3;
         double average = total / 3.0;
 
-        System.out.println(name);
         System.out.println(total);
         System.out.println(average);
 

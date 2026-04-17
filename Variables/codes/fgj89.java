@@ -11,7 +11,6 @@ class Student {
     void input() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Name: spoorthi raju");
-        name = sc.nextLine();
         System.out.print("Enter Roll No: 21f11690");
         rollNo = sc.nextInt();
         System.out.print("Enter Marks: 95 ");
