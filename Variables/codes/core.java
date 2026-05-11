@@ -7,10 +7,6 @@ import java.util.Scanner;
 class Banks {
     private double balance;
 
-    Bank(double balance) {
-        this.balance = balance;
-    }
-
     void deposit(double amt) {
         balance += amt;
         System.out.println(amt);
