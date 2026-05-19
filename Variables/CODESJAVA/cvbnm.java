@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class cvbnm {
 
     static void fibonacci(int n) {

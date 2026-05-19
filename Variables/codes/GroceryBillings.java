@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GroceryBilling {
+public class GroceryBillings {
 
     public static void main(String[] args) {
 
