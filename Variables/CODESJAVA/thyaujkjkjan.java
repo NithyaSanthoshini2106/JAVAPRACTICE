@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class thyaujkjkjan {
 
     static void fibonacci(int n) {

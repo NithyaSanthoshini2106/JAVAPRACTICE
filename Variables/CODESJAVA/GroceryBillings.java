@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-public class niyathi09 {
-   
-
+public class GroceryBillings {
 
     public static void main(String[] args) {
 
@@ -36,6 +34,3 @@ public class niyathi09 {
         sc.close();
     }
 }
-
-
-

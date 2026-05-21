@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class srevali {
     public static void main(String[] args) {
 
