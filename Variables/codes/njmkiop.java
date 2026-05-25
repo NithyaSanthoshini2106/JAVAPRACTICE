@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class Bank {
+class Bansk {
     private double balance;
 
     Bank(double balance) {
