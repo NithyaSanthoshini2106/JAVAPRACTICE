@@ -1,5 +1,4 @@
-public class nithya {
-    import java.util.Scanner;
+import java.util.Scanner;
 
 public class niyathi09 {
    
@@ -39,6 +38,3 @@ public class niyathi09 {
 }
 
 
-
-
-}

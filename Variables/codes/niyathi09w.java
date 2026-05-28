@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class niyathi09 {
+public class niyathi09w {
    
 
 

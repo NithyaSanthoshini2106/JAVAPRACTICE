@@ -1,6 +1,6 @@
-public import java.util.Scanner;
+import java.util.Scanner;
 
-public class thiyatali {
+public class gbb {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -26,6 +26,4 @@ public class thiyatali {
         sc.close();
     }
 }
- hhn {
-    
-}
+

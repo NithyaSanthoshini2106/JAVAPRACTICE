@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class gbb {
+public class thiyatali123 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -26,4 +26,3 @@ public class gbb {
         sc.close();
     }
 }
-
