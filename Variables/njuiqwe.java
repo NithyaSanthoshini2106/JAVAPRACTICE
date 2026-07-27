@@ -1,4 +1,7 @@
-public class thyatahnay {
+import java.util.Scanner;
+
+public class njuiqwe {
+   
 
     public static void main(String[] args) {
 
@@ -8,9 +11,9 @@ public class thyatahnay {
         String mobile = sc.nextLine();
 
         System.out.println("\nSelect Recharge Plan");
-        System.out.println("1. ₹199 - 28 Days");
-        System.out.println("2. ₹399 - 56 Days");
-        System.out.println("3. ₹599 - 84 Days");
+        System.out.println("1. ₹199 - 15 Days");
+        System.out.println("2. ₹399 - 39 Days");
+        System.out.println("3. ₹599 - 56 Days");
 
         System.out.print("Enter option: ");
         int option = sc.nextInt();
@@ -19,15 +22,15 @@ public class thyatahnay {
 
         switch (option) {
             case 1:
-                amount = 12908;
+                amount = 59998;
                 break;
 
             case 2:
-                amount = 3897;
+                amount = 98707;
                 break;
 
             case 3:
-                amount = 9087;
+                amount = 56787;
                 break;
 
             default:
@@ -43,4 +46,3 @@ public class thyatahnay {
         sc.close();
     }
 }
-

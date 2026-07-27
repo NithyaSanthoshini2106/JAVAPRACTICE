@@ -1,4 +1,4 @@
-public class nithyakala {
+public class nikalaka98{
 
    
     public static void main(String[] args) {
@@ -21,4 +21,3 @@ public class nithyakala {
         }
     }
 }
-

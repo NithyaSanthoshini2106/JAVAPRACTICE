@@ -1,12 +1,6 @@
-
-
-class BankAccount {
+public class nbvghjk {
+    
     private double balance;
-
-    BankAccount(double balance) {
-        this.balance = 2000;
-    }
-
     void deposit(double amount) {
         balance += amount;
         System.out.println(amount);

@@ -1,4 +1,6 @@
-public class thyatahnay {
+import java.util.Scanner;
+
+public class MobileRecharges {
 
     public static void main(String[] args) {
 
@@ -19,15 +21,15 @@ public class thyatahnay {
 
         switch (option) {
             case 1:
-                amount = 12908;
+                amount = 199;
                 break;
 
             case 2:
-                amount = 3897;
+                amount = 399;
                 break;
 
             case 3:
-                amount = 9087;
+                amount = 599;
                 break;
 
             default:
@@ -43,4 +45,3 @@ public class thyatahnay {
         sc.close();
     }
 }
-
