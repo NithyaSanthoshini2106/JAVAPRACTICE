@@ -12,8 +12,6 @@ public class niyathi0912 {
         char choice;
 
         do {
-            System.out.print("Enter item name: ");
-            String item = sc.next();
 
             System.out.print("Enter quantity: ");
             int qty = sc.nextInt();
@@ -23,8 +21,6 @@ public class niyathi0912 {
 
             double amount = qty * price;
             total += amount;
-
-            System.out.println(item + " Amount: ₹" + amount);
 
             System.out.print("Add more items? (y/n): ");
             choice = sc.next().charAt(0);

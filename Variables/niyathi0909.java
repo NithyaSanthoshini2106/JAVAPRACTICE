@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class niyathi09 {
+public class niyathi0909 {
    
 
 
@@ -12,9 +12,7 @@ public class niyathi09 {
         char choice;
 
         do {
-            System.out.print("Enter item name: ");
-            String item = sc.next();
-
+            
             System.out.print("Enter quantity: ");
             int qty = sc.nextInt();
 
@@ -23,8 +21,6 @@ public class niyathi09 {
 
             double amount = qty * price;
             total += amount;
-
-            System.out.println(item + " Amount: ₹" + amount);
 
             System.out.print("Add more items? (y/n): ");
             choice = sc.next().charAt(0);

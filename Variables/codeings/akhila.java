@@ -5,9 +5,6 @@ public class akhila {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter mobile number: ");
-        String mobile = sc.nextLine();
-
         System.out.println("\nSelect Recharge Plan");
         System.out.println("1. ₹199 - 10 Days");
         System.out.println("2. ₹399 - 30 Days");
@@ -37,7 +34,6 @@ public class akhila {
 
         if (amount > 0) {
             System.out.println("\nRecharge Successful!");
-            System.out.println("Mobile Number : " + mobile);
             System.out.println("Recharge Amount : ₹" + amount);
         }
 

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class thutayu {
 
@@ -18,13 +18,11 @@ public class thutayu {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+        
 
         System.out.print("Enter terms: ");
-        int n = sc.nextInt();
 
-        fibonacci(n);
 
-        sc.close();
+        
     }
 }

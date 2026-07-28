@@ -1,11 +1,12 @@
+import java.util.Scanner;
+
 public class mnjkiol {
    
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter mobile number: ");
-        String mobile = sc.nextLine();
+       
 
         System.out.println("\nSelect Recharge Plan");
         System.out.println("1. ₹199 - 10 Days");
@@ -36,7 +37,6 @@ public class mnjkiol {
 
         if (amount > 0) {
             System.out.println("\nRecharge Successful!");
-            System.out.println("Mobile Number : " + mobile);
             System.out.println("Recharge Amount : ₹" + amount);
         }
 

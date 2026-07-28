@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class swamiswami {
+public class swamiswamiva {
 
     public static void main(String[] args) {
 
