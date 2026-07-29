@@ -1,15 +1,13 @@
-public class nmbvfygh {
-
-
+public class nikilaya {
     public static void main(String[] args) {
 
-        
-        System.out.println("\nSelect Recharge Plan");
-        System.out.println("1. ₹199 - 15 Days");
-        System.out.println("2. ₹399 - 39 Days");
-        System.out.println("3. ₹599 - 56 Days");
 
-        
+        System.out.println("\nSelect Recharge Plan");
+        System.out.println("1. ₹199 - 10 Days");
+        System.out.println("2. ₹399 - 50 Days");
+        System.out.println("3. ₹599 - 59 Days");
+
+
         int amount = 0;
 
         
