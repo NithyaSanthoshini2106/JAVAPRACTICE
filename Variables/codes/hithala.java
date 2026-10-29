@@ -1,0 +1,21 @@
+public class hithala {
+  public static void main(String[] args) {
+
+        System.out.print("Enter mobile number: ");
+     
+
+        System.out.println("\nSelect Recharge Plan");
+        System.out.println("1. ₹199 - 28 Days");
+        System.out.println("2. ₹399 - 56 Days");
+        System.out.println("3. ₹599 - 84 Days");
+
+        System.out.print("Enter option: ");
+
+        int amount = 0;
+
+        if (amount > 0) {
+            System.out.println("\nRecharge Successful!");
+            System.out.println("Recharge Amount : ₹" + amount);
+        }
+    }
+}
