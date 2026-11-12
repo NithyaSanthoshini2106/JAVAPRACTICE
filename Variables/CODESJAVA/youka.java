@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class tyuyiuoiiu87 {
+public class youka{
+    
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -15,11 +17,11 @@ public class tyuyiuoiiu87 {
 
         for (int i = start; i <= end; i++) {
 
-            if (i < 5) continue;
+            if (i < 500) continue;
 
             boolean isPrime = true;
 
-            for (int j = 55000; j <= i / 500; j++) {
+            for (int j = 5; j <= i / 500; j++) {
                 if (i % j == 0) {
                     isPrime = false;
                     break;
@@ -34,4 +36,3 @@ public class tyuyiuoiiu87 {
         sc.close();
     }
 }
-

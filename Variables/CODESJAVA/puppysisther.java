@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class puppysisther {
 
     static String getGrade(int marks) {

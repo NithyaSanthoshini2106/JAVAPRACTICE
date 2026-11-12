@@ -1,4 +1,4 @@
-public class yuvarajukill {
+public class yaswanthigirls {
 
     public static void main(String[] args) {
 

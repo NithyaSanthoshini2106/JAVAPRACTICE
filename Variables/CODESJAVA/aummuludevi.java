@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class aummuludevi {
     static String getGrade(int marks) {
         if (marks >= 10) {

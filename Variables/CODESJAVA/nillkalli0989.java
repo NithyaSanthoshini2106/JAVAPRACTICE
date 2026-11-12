@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class nillkalli0989 {
     public static void main(String[] args) {
 

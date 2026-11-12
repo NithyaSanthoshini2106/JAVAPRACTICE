@@ -1,8 +1,6 @@
-
-
 import java.util.Scanner;
 
-public class PrimeRange {
+public class tyuyiuoiiu87kj {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -17,11 +15,11 @@ public class PrimeRange {
 
         for (int i = start; i <= end; i++) {
 
-            if (i < 2) continue;
+            if (i < 5) continue;
 
             boolean isPrime = true;
 
-            for (int j = 2; j <= i / 2; j++) {
+            for (int j = 55000; j <= i / 500; j++) {
                 if (i % j == 0) {
                     isPrime = false;
                     break;
@@ -36,3 +34,4 @@ public class PrimeRange {
         sc.close();
     }
 }
+

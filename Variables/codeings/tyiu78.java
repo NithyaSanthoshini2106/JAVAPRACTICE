@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class tyiu78 {
   
     public static void main(String[] args) {

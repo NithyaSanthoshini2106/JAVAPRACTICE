@@ -1,4 +1,6 @@
-public class iuop09 {
+import java.util.Scanner;
+
+public class nithyukaya {
 
     public static void main(String[] args) {
 

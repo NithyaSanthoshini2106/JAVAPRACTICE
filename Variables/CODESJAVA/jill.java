@@ -1,4 +1,6 @@
-public class nithyanithynithshvarma {
+import java.util.Scanner;
+
+public class jill {
 
     static Scanner sc = new Scanner(System.in);
 

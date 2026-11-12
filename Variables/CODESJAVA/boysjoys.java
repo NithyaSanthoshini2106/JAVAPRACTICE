@@ -1,4 +1,6 @@
-public class mikalaya {
+import java.util.Scanner;
+
+public class boysjoys {
 
     static Scanner sc = new Scanner(System.in);
 

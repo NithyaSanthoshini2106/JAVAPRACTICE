@@ -1,4 +1,6 @@
-public class tiyhi890 {
+import java.util.Scanner;
+
+public class spendanas {
     
 
     public static void main(String[] args) {

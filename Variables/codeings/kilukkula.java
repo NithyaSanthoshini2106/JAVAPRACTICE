@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class khjiulolkl {
+public class kilukkula {
 
     public static void main(String[] args) {
 

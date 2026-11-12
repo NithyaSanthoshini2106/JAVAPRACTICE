@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class yujnhhk {
-    
+public class khjiulolk {
 
     public static void main(String[] args) {
 
@@ -17,11 +16,11 @@ public class yujnhhk {
 
         for (int i = start; i <= end; i++) {
 
-            if (i < 500) continue;
+            if (i < 5) continue;
 
             boolean isPrime = true;
 
-            for (int j = 5; j <= i / 500; j++) {
+            for (int j = 5; j <= i / 5; j++) {
                 if (i % j == 0) {
                     isPrime = false;
                     break;

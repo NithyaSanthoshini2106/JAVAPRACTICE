@@ -1,4 +1,4 @@
-public class lopkimjuhn0909899 {
+public class lopkimjuh {
 
     public static void main(String[] args) {
 

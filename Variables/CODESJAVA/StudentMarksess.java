@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentMarks {
+public class StudentMarksess {
 
     static String getGrade(int marks) {
         if (marks >= 90) {

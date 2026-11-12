@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class mikalaya {
 
     static Scanner sc = new Scanner(System.in);

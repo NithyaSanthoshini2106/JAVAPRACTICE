@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class supriyadevi {
+public class supriyadevis {
     
 
     public static void main(String[] args) {
